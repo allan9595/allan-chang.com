@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Gospel 福音
+title: The Gospel  福音
 
 background: '/img/1.jpg'
 form: true
